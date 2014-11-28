@@ -9,5 +9,5 @@ while i >= 0
 	str.gsub!(/(「|」)/,"\s")
     print (str)
 
-    i = i + 1
+    i = i + 2
 end
